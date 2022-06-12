@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bR5xQy3AuwWP0O0CUFANh3WLO/yThKA3i9FZDvG37PfvdEsNAhiSNk/678CgyABXUZmLhB6QqJf/A1+Crxqb1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mqu\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Round Robin Tournament.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mqu\\.nuget\\packages\\roundrobin\\2.2.1\\roundrobin.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Round Robin Tournament.exe
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Round Robin Tournament.deps.json
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Round Robin Tournament.runtimeconfig.json
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Round Robin Tournament.dll
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Round Robin Tournament.pdb
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\RoundRobin.dll
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.csproj.AssemblyReference.cache
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.AssemblyInfoInputs.cache
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.AssemblyInfo.cs
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.csproj.CoreCompileInputs.cache
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.csproj.CopyComplete
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.dll
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Round Robin Tournament.dll
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.pdb
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Round Robin Tournament.genruntimeconfig.cache
+C:\Users\mqu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Round Robin Tournament.dll

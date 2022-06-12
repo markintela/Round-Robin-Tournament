@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "RoundRobin": "2.2.1"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "RoundRobin/2.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/RoundRobin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RoundRobin/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uxq+x+K4CTV+Dfy8wCjU+65Q17k20TxMBC3Fq4VZlIuWuilEuRv89Cd0w2DbIzCvSCbge0WSRB+EQKZkroxa0Q==",
+      "path": "roundrobin/2.2.1",
+      "hashPath": "roundrobin.2.2.1.nupkg.sha512"
+    }
+  }
+}
